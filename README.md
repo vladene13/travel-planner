@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TravelPlan - Aplicație de Planificare a Călătoriilor
 
 ## Descriere
@@ -43,3 +44,6 @@ bashCopynpm start
 Deployment
 bashCopynpm run build
 Autor Ene Vlad
+=======
+# travel-planner
+>>>>>>> a58a9d6e4b2857f6639f45c3465972e19a0d736a
